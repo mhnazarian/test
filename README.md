@@ -1,2 +1,2 @@
-First text with GUI.
-second text whith CLI.
+First text with GUI!
+second text whith CLI!
